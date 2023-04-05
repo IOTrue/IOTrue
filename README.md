@@ -20,5 +20,5 @@
 
 <h2 align="center"> Github stats </h2>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=IOTrue&show_icons=true"/></a>
+  <a href="https://github.com/IOTrue"><img src="https://github-readme-stats.vercel.app/api?username=IOTrue&show_icons=true"/></a>
 </p>
