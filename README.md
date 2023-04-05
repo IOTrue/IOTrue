@@ -1,5 +1,4 @@
 # 김준철
-<hr/>
 <h2 align="center"> About Me </h2>
 <p align="center">
     <span display="block">🎨 프론트엔드 개발자 김준철입니다.</span>
@@ -14,12 +13,12 @@
     <img display="inline-block" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </div>
 
-<h2 align="center"> blog </h2>
+<h2 align="center"> Blog </h2>
 <div align="center">
     <a href="https://iotrue.tistory.com/" target="_blank">https://iotrue.tistory.com</a>
 </div>
 
-<h2 align="center"> github stats </h2>
+<h2 align="center"> Github stats </h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=IOTrue&show_icons=true"/></a>
 </p>
